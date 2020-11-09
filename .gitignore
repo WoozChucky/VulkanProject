@@ -1,0 +1,10 @@
+
+.idea/deployment.xml
+
+build/debug/
+
+build/min-size-rel/
+
+build/release/
+
+build/release-with-deb/
